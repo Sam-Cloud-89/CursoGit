@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+   body {
+      background-color: #83AB7E;
+      margin: 0;
+      display: flex;
+      justify-content: center; /* centra horizontalmente */
+      align-items: flex-start; /* arriba (parte superior) */
+      height: 100vh; 
+    }
+ 
+    table {
+      border-collapse: collapse;
+      margin-top: 20px;
+      text-align: center; /* centra el texto dentro de las celdas */
+    }
+
+    th, td {
+      border: 4px double black;
+      padding: 10px;
+    }
+
+    th {
+      background-color: #f2f2f2;
+    }
