@@ -3,6 +3,7 @@
    body {
       background-color: #83AB7E;
       color:red;
+      font-size:18px;
       font-weight: bold;
       margin: 0;
       display: flex;
