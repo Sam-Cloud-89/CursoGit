@@ -8,3 +8,10 @@ function pregunta(id)
 		window.location.href = "eliminar/" + id; 
 	}
 }
+
+
+
+function saludo()
+{
+	alert("Hola alumnos");
+}
